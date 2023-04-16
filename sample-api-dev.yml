@@ -1,10 +1,7 @@
-props:
-  prop1: "prop1 value"
-  prop2: "prop2 value"
-  prop3: "prop3 value"
-  prop4: "prop4 value"
-  prop5: "prop5 value"
-  prop6: "prop6 value"
-  prop7: "prop7 value"
-  prop8: "prop8 value"
-  prop9: "prop9 value"
+notSoSecretProps:
+  prop1: "plain prop1"
+  prop2: "plain prop2"
+
+superSecretProps:
+  prop1: {cipher}AYAfwHxL6w0zqybO8U6s+uVZJnS3OpQkce78Wi3tdQhlDUAa7DfNM1hHeIauYMmNkWkK62Br7/8LpbCOBxS9gHEkdgshCy6rqsuXpAUF3dHx+LeT8kebsEl6SnVKaePsLUVI6h4I2Uy/GKKbYtTWUDnnmfNxOpidLZW3zKT5DTjfaNLAifGEYYoLHeuo+CLWEb0IuT4YvAyGcL0wFkFHy0y0dROklF90dBFsIFcTLcel8SE3JLkH78gaInRFqmAO4Xj8kiRViOLUZeAMj4BQ9kZo/g+DYSDul+uePQKL4cSfoANA82qlXdFaq/lQ2XljnLxiXJXQ3JcL23YD5ttRwsEwJ6W1oLPQir/7/aRYdB/v6o88QALtkkxtx9JnCimuVuFXONfqELWwgFdBe5M70i5nGkpo1iypb1Cri5W+i1TiQem6SjY4lTtrGrTf4E4VZJmepvK0WZHPtRDK1pmBq3i9JsuemWEZeJuMtHF1dFMV1rsyzC6WvQxN2uEv7vzSTXsU1t8G2tXSyF2+V5slwZqS2SkU+Z07jeBd3OOCE+g4p+Odr3uykQGgK2aeT6M73Ys=
+  prop2: {cipher}AYAkTylVGSgKWWwLWXf9FDA1h7Ow8kXQFJ3B2taMllpYMkD1lp66rsd3xLjqvUJ7aXkTrJFrbal3Yxtmf5KBcQZCMnBlai7iooWuEnN39YVs3qH0qpR/Ci3QSOF4KT3EhpFVom/u+Vv814nTW9Qk3jg+WzCaHQRUmpeRdvCb/FpWsPlRGSl1XuuMWgV7fJj4aFys9cxEpPj5805hThdmtIqHsTHbScwDqVlfuyu3G07LBY1y5rCM/XH1jyoactPvlnLAo8FaBsLDx/Vzmc9c/FinWGowyfBjxEt5EzTYtdDsk0+loB4OhBCrckQh2fb1zQqOj571n+TZ00o7iXRB1fWOuHTd2GHZMIxqE43llFgUVgxuCvgFU3f8JsZqx/8Q4bxOvDu0JDIyEPhG4ZVQYL17niji/d90DTzibct5Nr8yl9FyPYedKAkysX20aeCYlF6Au671bvOx0nzT/jeKhxcOsz0ImeNGcbxLM6gWm6peVlZJbkZcx79BgY7foc2YJy/vXY9EWLWt5Mo43e//3THiPYkcXTWCNQFkK4kExu51n8IPQAGyCtvEm3bpZAlfTHo=
